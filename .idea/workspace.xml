@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff957137-f885-4a0a-a381-924858e840b8" name="Default Changelist" comment="" />
+    <list default="true" id="ff957137-f885-4a0a-a381-924858e840b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +17,13 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -47,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -111,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" />
         <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/replace-nested-conditional-with-guard-clauses_before.java" />
         <option value="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" />
       </list>
     </option>
   </component>
@@ -178,12 +185,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,12 +216,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559572266200</updated>
-      <workItem from="1559572267678" duration="2949000" />
+      <workItem from="1559572267678" duration="3374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2949000" />
+    <option name="totallyTimeSpent" value="3374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -308,13 +317,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
